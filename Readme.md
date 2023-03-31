@@ -1,7 +1,7 @@
 [![en](https://github.com/heavymetalthings/ArmoredKernel/blob/main/assets/images/Rust.svg)]()
 [![en](https://github.com/heavymetalthings/ArmoredKernel/blob/main/assets/images/licence%20GPL.svg)](https://github.com/heavymetalthings/ArmoredKernel/blob/main/LICENCE)
 
-## ArmoredCAD 
+## ArmoredCAD :crab:
 
 Welcome to this massive, utopian, yet beautiful project.
 
