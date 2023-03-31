@@ -11,7 +11,7 @@ While there are FOSS alternatives to proprietary softwares like Freecad, they ar
 
 Since open software is the only way to go, we wish to compete with kernels like ACIS.
 
-Our code is aimed to be reliable while keeping it fast. The quite young Rust language is by far one of the best choices, because, it has young blood compared to C/C++ and is faster than python. :crab:
+Our code is aimed to be reliable while keeping it fast. The quite young Rust language is by far one of the best choices, because, it has young blood compared to C/C++ and is faster than python.
 
 For beginners, it seems very complicated to switch to rust, but, hey, why not? You only get old when you stop learning 
 
@@ -25,13 +25,16 @@ The parts functionality is there to provide all the tools to model unique parts.
 
 ### Modelling
 
-
+### File syntax
 
 ## Blueprints
 
 Once parts are created/imported, they can be set on paper.
 
 The 
+
+### File syntax
+
 
 ## Assemblies
 
@@ -46,6 +49,9 @@ Main assembly functions :
 ### Animation
 
 Should provide a way to play and with associated parameters, output moves.
+
+### File syntax
+
 
 ## Author's note
 
