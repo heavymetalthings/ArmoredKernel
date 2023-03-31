@@ -8,15 +8,19 @@ While there are FOSS alternatives to proprietary softwares like Freecad, they ar
 
 ## Armored Kernel
 
-
+The geometric kernel is there to provide 
 
 ## Parts
 
-
+The  
 
 ## Assemblies
 
+The 
 
+## Blueprints
+
+The 
 
 ## Author's note
 
