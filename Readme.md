@@ -22,6 +22,8 @@ The parts functionality is there to provide all the tools to model unique parts.
 
 ### Modelling
 
+
+
 ## Blueprints
 
 Once parts are created/imported, they can be set on paper.
@@ -34,11 +36,13 @@ The assemblies functionality is there to provide the possibility to work with as
 
 ### Assembly (core)
 
+Main assembly functions : 
+
 ### FEA
 
 ### Animation
 
-
+Should provide a way to play and with associated parameters, output moves.
 
 ## Author's note
 
