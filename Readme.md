@@ -1,10 +1,16 @@
 ## ArmoredCAD 
 
-Welcome to this massive, humongous project.
+Welcome to this massive, utopian, yet beautiful project.
 
 Our aim is to provide a viable aternative to the other geometric kernels.
 
 While there are FOSS alternatives to proprietary softwares like Freecad, they are often sketchy and extremely frustrating to use.
+
+Since open software is the only way to go, we wish to compete with kernels like ACIS.
+
+Our code is aimed to be reliable while keeping it fast. The quite young Rust language is by far one of the best choices, because, it has young blood compared to C/C++ and is faster than python.
+
+For beginners, it seems very complicated to switch to rust, but, hey, why not? You only get old when you stop learning 
 
 ## Armored Kernel
 
@@ -12,15 +18,27 @@ The geometric kernel is there to provide
 
 ## Parts
 
-The  
+The parts functionality is there to provide all the tools to model unique parts.
 
-## Assemblies
-
-The 
+### Modelling
 
 ## Blueprints
 
+Once parts are created/imported, they can be set on paper.
+
 The 
+
+## Assemblies
+
+The assemblies functionality is there to provide the possibility to work with assemblies of courses, but will also provide other tools like finite elements, or cinematic simulation.
+
+### Assembly (core)
+
+### FEA
+
+### Animation
+
+
 
 ## Author's note
 
