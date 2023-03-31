@@ -1,11 +1,24 @@
+use std::fs::File;
+use std::io::{BufRead, BufReader, Error};
+
+fn read_data_from_file(path: &str) -> Result<Vec<String>, Error> {
+    let file = File::open(path)?;
+    let reader = BufReader::new(file);
+
+    let mut data = Vec::new();
+
+    for line in reader.lines() {
+        data.push(line?);
+    }
+
+    Ok(data)
+}
 
 
 fn main() {
-    println!("Tu es Pierre et sur cette pierre, je bâtiai mon église");
-
-    let mut a: [i8;10] = [42;10];
-    //let mut b = 
-    a[5]=5;
-    println!("a: {:?}",a);
-    println!("second number {}", a[1])
+    let path = "src/examplefile.ar3";
+    match read_data_from_file(path) {
+        Ok(data) => println!("{:?}", data),
+        Err(err) => println!("Error: {:?}", err),
+    }
 }
