@@ -16,7 +16,7 @@ fn read_data_from_file(path: &str) -> Result<Vec<String>, Error> {
 
 
 fn main() {
-    let path = "src/examplefile.ar3";
+    let path = "src/examplefile.arp";
     match read_data_from_file(path) {
         Ok(data) => println!("{:?}", data),
         Err(err) => println!("Error: {:?}", err),
