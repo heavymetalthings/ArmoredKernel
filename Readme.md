@@ -1,4 +1,4 @@
-<a href="https://github.com/heavymetalthings/ArmoredKernel/blob/main/LICENCE"><img src="" alt="License Badge"/></a>
+<a href="https://github.com/heavymetalthings/ArmoredKernel/blob/main/LICENCE"><img src="https://github.com/heavymetalthings/ArmoredKernel/blob/main/assets/images/licence%20GPL.svg" alt="License Badge"/></a>
 
 ## ArmoredCAD 
 
