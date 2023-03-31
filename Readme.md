@@ -1,5 +1,5 @@
-[![en](https://github.com/heavymetalthings/ArmoredKernel/blob/main/assets/images/licence%20GPL.svg)](https://github.com/heavymetalthings/ArmoredKernel/blob/main/LICENCE)
 [![en](https://github.com/heavymetalthings/ArmoredKernel/blob/main/assets/images/Rust.svg)]()
+[![en](https://github.com/heavymetalthings/ArmoredKernel/blob/main/assets/images/licence%20GPL.svg)](https://github.com/heavymetalthings/ArmoredKernel/blob/main/LICENCE)
 
 ## ArmoredCAD 
 
@@ -11,7 +11,7 @@ While there are FOSS alternatives to proprietary softwares like Freecad, they ar
 
 Since open software is the only way to go, we wish to compete with kernels like ACIS.
 
-Our code is aimed to be reliable while keeping it fast. The quite young Rust language is by far one of the best choices, because, it has young blood compared to C/C++ and is faster than python.
+Our code is aimed to be reliable while keeping it fast. The quite young Rust language is by far one of the best choices, because, it has young blood compared to C/C++ and is faster than python. :crab:
 
 For beginners, it seems very complicated to switch to rust, but, hey, why not? You only get old when you stop learning 
 
