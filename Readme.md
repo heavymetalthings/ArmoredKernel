@@ -1,3 +1,5 @@
+<a href="https://github.com/heavymetalthings/ArmoredKernel/blob/main/LICENCE"><img src="" alt="License Badge"/></a>
+
 ## ArmoredCAD 
 
 Welcome to this massive, utopian, yet beautiful project.
