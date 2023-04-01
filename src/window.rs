@@ -19,7 +19,7 @@ impl Sandbox for MyApp {
     }
 
     fn title(&self) -> String {
-        String::from("My Iced App")
+        String::from("ArmoredCAD")
     }
 
     fn update(&mut self, message: Message) {
