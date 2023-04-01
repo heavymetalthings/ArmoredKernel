@@ -7,13 +7,10 @@ edition = "2021"
 
 [dependencies]
 
-iced = "0.2"
+iced = "0.3.0"
+tui = "0.19.0"
 
 
 [[bin]]
-name = "main"
-path = "src/main.rs"
-
-[[bin]]
-name = "simplewindow"
-path = "src/window.rs"
+name = "simplewindow2"
+path = "src/window2.rs"

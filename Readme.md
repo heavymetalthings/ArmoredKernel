@@ -25,7 +25,18 @@ The parts functionality is there to provide all the tools to model unique parts.
 
 ### Modelling
 
+The modelling section will hold the followiing :
+* sketch
+* 3D model
+* 
+
+#### Sketch
+
+#### 
+
 ### File syntax
+
+The file extension will be .arp (for armored part).
 
 ## Blueprints
 
