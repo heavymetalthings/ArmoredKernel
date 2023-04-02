@@ -23,14 +23,7 @@ The geometric kernel is there to provide
 
 The parts functionality is there to provide all the tools to model unique parts.
 
-### Modelling
-
-The modelling section will hold the followiing :
-* sketch
-* 3D model
-* 
-
-#### Sketch
+### Sketch
 
 Will include for drawing :
 * Line
@@ -48,14 +41,49 @@ Will include for drawing :
 * Rotate
 * Trim
 * Extend
-* 
-* 
-* 
-* 
+
+### 3D features
+
+#### Make
+
+Will include :
+* Extrusion
+* Revolution
+* Sweep
+* Loft
+* Coil
+* Embossing
+
+
+To be thought of :
+* Coil
+* Derive
+* Rib
+* Decal
+* Import
+* Unwrap
+
+#### Mods
+
+* Hole
+* Chamfer
+* Fillet
+* Shell
+* Draft
+* Thread
+* Combine
+* Thicken/offste
+* Split
+* Direct/Pull
+
+#### Refs
+
+* Plane
+* Axis
+* Point
 
 
 
-#### 
 
 ### File syntax
 
