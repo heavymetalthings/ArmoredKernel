@@ -38,7 +38,21 @@ Will include for drawing :
     * Center radius
     * Three points
 * Arc
+* Fillet
+* Chamfer
+* Text
+* Point
+* Geometry projection
+* Move
+* Copy
+* Rotate
+* Trim
+* Extend
 * 
+* 
+* 
+* 
+
 
 
 #### 
