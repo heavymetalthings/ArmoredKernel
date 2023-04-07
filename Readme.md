@@ -17,7 +17,11 @@ For beginners, it seems very complicated to switch to rust, but, hey, why not? Y
 
 ## Armored Kernel
 
-The geometric kernel is there to provide 
+The geometric kernel is there to provide the base of new open source CAD/CAM softwares.
+
+I will be ale to :
+*
+*
 
 ## Parts
 
